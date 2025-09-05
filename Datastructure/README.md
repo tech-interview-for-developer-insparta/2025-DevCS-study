@@ -1,15 +1,17 @@
 # 자료구조 커리큘럼 로드맵
 
-| 단계     | 자료구조                               |
-| ------ | ---------------------------------- |
-|  **기본** | Array  |
-|        | Linked List |
-|        | Stack |
-|        | Queue |
-|        | Tree  |
-|        | Binary Tree |
-|        | Graph       |
-| **응용** | Deque          |
-|        |  Heap & Priority Queue          |
-|        | Indexed Tree (Segment Tree)                    |
-|        | Trie                    |
+| 단계 | 자료구조 | 세부 내용 / 예시 | 비고 |
+|------|----------|------------------|------|
+| **기초** | 스택(Stack) & 큐(Queue) | LIFO / FIFO, 배열/링크드 리스트 기반 | 필수 |
+|  | 링크드 리스트(Linked List) | 단일, 이중, 원형 링크드 리스트 | 필수 |
+|  | 트리(Tree) | 이진 트리, 이진 탐색 트리(BST) | 필수 |
+|  | 해시(Hash) | 해시 함수, 충돌 해결 (체이닝/오픈 어드레싱) | 필수 |
+| **중급** | 힙(Heap) | 최대 힙, 최소 힙, 우선순위 큐 | 필수 |
+|  | 그래프(Graph) | 인접 리스트, 인접 행렬, DFS/BFS 기반 표현 | 필수 |
+|  | 트라이(Trie) | 문자열 탐색, 자동완성 | 선택 |
+|  | Union-Find (Disjoint Set) | 그래프 연결 요소, 네트워크 문제 | 필수 |
+|  | B-Tree / B+Tree | 데이터베이스 인덱스 구조 | 선택 |
+| **심화** | Red-Black Tree | 자가 균형 이진 탐색 트리 | 선택 |
+|  | Segment Tree | 구간 합/최댓값 쿼리 | 선택 |
+|  | Fenwick Tree (Binary Indexed Tree) | 구간 합, 최적화 | 선택 |
+|  | Bloom Filter | 확률적 집합, 보안/빅데이터 필터링 | 선택 |
