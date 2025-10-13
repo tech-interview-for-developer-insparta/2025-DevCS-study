@@ -7,8 +7,7 @@
 |  | TCP/IP 모델 | 4계층 구조, OSI와 비교 | 필수 |
 |  | IP 주소 | IPv4, IPv6, 서브넷마스크, 게이트웨이 | 필수 |
 |  | DNS & DHCP | 도메인 해석, 동적 IP 할당 | 필수 |
-| **중급** | TCP/UDP | 연결형 vs 비연결형, 특징, 활용 사례 | 필수 |
-|  | TCP 제어 | 3-way/4-way handshake, 흐름제어, 혼잡제어 | 필수 |
+| **중급** | TCP/UDP | 연결형 vs 비연결형,3-way/4-way handshake | 필수 |
 |  | HTTP & HTTPS | 요청/응답 구조, 차이점, 상태코드 | 필수 |
 |  | TLS/SSL | 인증서, 암호화 방식, handshake 과정 | 필수 |
 |  | 대칭키 & 공개키 | AES, RSA, 키 교환 방식 | 필수 (보안) |
